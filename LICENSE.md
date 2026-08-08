@@ -30,7 +30,7 @@ TERMS AND CONDITIONS
 3. INQUIRIES & PERMISSIONS
    To request written authorization or inquire about commercial licensing:
    Email: fxckofpls69@mail.ru
-   telegtam: @Homognom_bot
+   telegram: @Homognom_bot
 
 4. DISCLAIMER OF WARRANTIES
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
