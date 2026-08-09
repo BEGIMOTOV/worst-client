@@ -1,4 +1,4 @@
-The PID0RAS License (P1D0RAS-1.0)
+The PID0RAS License (PID0RAS-1.0)
 Version 1.0, 2026
 
 P1D0RAS = Proprietary Intellectual Domain, 0-Read, All-Secured
