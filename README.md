@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1407148140192337982/1535671589725671564/4.png?ex=6a789d1e&is=6a774b9e&hm=fc6d6a5176ccc63cbb16d5407d1e54c5a498a8376738adbf448311c1838bec6e&" width="720" ">
-</p>
 
+</p>
+ 
 # <p align="center">A specialized client featuring an advanced module suite for easy PvP and dominant PvE</p>
 
 
