@@ -1,7 +1,7 @@
 The PID0RAS License (PID0RAS-1.0)
 Version 1.0, 2026
 
-P1D0RAS = Proprietary Intellectual Domain, 0-Read, All-Secured
+PID0RAS = Proprietary Intellectual Domain, 0-Read, All-Secured
 Copyright (c) 2026 Nekita Begimotov
 
 ALL RIGHTS RESERVED.
